@@ -1,4 +1,6 @@
-## Sleep disorders and health class for typicals and ADHD (2024)
+## Sleep disorders and health class (2024)
+### For Neurotypicals and ADHD
+
 
 1. 5min quick
 2. Disorders / classification / testing - 3-20min
