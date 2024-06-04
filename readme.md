@@ -1,8 +1,7 @@
-## Turinys (110min - 600min)
-
+## Sleep disorders and health class for typicals and ADHD (2024)
 
 1. 5min quick
-2. Disorders / classification / testing
+2. Disorders / classification / testing - 3-20min
 3. ADHD - sleep relation - 3-15min
 4. disorders overview - 10-40min
 5. Sleep apnea - 10-60min?
